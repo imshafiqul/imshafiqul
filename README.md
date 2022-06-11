@@ -1,6 +1,6 @@
 ### Hi, I'm Saadman Shahin.👋
 #### A passionate web developer from Bangladesh
-![A passionate web developer from Bangladesh](https://scontent.fdac128-1.fna.fbcdn.net/v/t39.30808-6/279034761_5015397125233759_6554021768425225276_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeE76ejQywLQ0K0rIpnXQD-sXXbX0jXHI11ddtfSNccjXQrH8IhXgk1eHhrmBfqE1XWo0bgrv13hF2ArAL_XbQLA&_nc_ohc=AfoKrw9WIdoAX_GCIc9&_nc_ht=scontent.fdac128-1.fna&oh=00_AT9tdHr6DGc7RetsxTJ7oe8c65oUnVmdk_BK1kyffITccA&oe=62A8D6BC)
+![A passionate web developer from Bangladesh]
 
 I’m a Front End Web developer who is passionate about making error-free websites with 100% client satisfaction. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic, goal-oriented, and always work with an end goal in mind. Over the past years, I created 100s of websites for my clients. I pride myself on doing quality work and maintaining excellent communication. Most of the time I work with WordPress but some technologies I enjoy working with include ReactJS, JavaScript as well as PHP.
 
