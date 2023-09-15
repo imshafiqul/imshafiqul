@@ -3,7 +3,7 @@
 
 I’m an enthusiastic and detail-oriented Back-End Software Engineer, who is passionate about making error-free websites. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am quietly confident, naturally curious, and strategic, always working with an end goal in mind and perpetually working on improving my skills at a time. Since beginning my journey as a web developer nearly two years ago, I've done many group projects, and collaborated with talented people to create websites. I pride myself on doing quality work and maintaining excellent communication. Most of the time I work with PHP but some technologies I enjoy working with include Laravel, JavaScript as well as WordPress.
 
-Skills: LARAVEL / PHP/ JS / MySQL
+Skills: LARAVEL | PHP | JS | MySQL
 
 - 🔭 I’m currently working on Upwork 
 - 🌱 I’m currently learning Laravel 
