@@ -10,7 +10,7 @@ Skills: LARAVEL | PHP | JS | MySQL
 - 👯 I’m looking to collaborate on GitHub 
 - 🤔 I’m looking for help with Laravel 
 - 💬 Ask me about Web development 
-- 📫 How to reach me: (http://imshafiqulislam.epizy.com/) 
+- 📫 How to reach me: [I'm an inline-style link with title](https://www.google.com "Google's Homepage") 
 - 😄 Pronouns: None 
 - ⚡ Fun fact: None 
 
